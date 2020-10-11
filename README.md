@@ -1,4 +1,6 @@
-# vue-ads-items
+# vue-add-items
+
+Sample Vue application to add items to an array
 
 ## Project setup
 ```
